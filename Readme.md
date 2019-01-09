@@ -5,9 +5,8 @@
 This workshop is about how to access and use the corpus of texts known as Bokhylla for 
 humanities research, like comparing texts, classify texts (e.g. author attribution), collocations and sentiment analysis among others.
 
-
-
 ## Subjects covered
 Participants will learn how to build their own corpus from the collection using libray metadata, and then go on to study the corpus using commands developed at the library for this purpose. 
 
-Material for the workshop is in this repository
+Notebooks can be tested in the browser by following this link: https://mybinder.org/v2/gh/Yoonsen/Bazaar/master
+
