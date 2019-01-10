@@ -8,5 +8,5 @@ humanities research, like comparing texts, classify texts (e.g. author attributi
 ## Subjects covered
 Participants will learn how to build their own corpus from the collection using libray metadata, and then go on to study the corpus using commands developed at the library for this purpose. 
 
-Notebooks can be tested in the browser by following this link: https://mybinder.org/v2/gh/Yoonsen/Bazaar/master
+Notebooks can be tested in the browser, without installing any Python, by following this link to [myBinder](https://mybinder.org/v2/gh/Yoonsen/Bazaar/master). Link also work on mobile phones.
 
