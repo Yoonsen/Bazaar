@@ -8,4 +8,4 @@ scipy
 networkx
 wordcloud
 community
-python_louvain
+python-louvain
